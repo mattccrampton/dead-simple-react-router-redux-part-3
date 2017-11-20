@@ -4,9 +4,9 @@
 
 import React from 'react'
 import { Route } from 'react-router-dom'
-import Homepage from '../homepage/homepage_component'
+import Homepage from '../Homepage/Homepage'
 import BlogPosts from '../BlogPosts/BlogPosts'
-import Login from '../login/login_component'
+import Login from '../Login/Login'
 import PrivateRoute from '../shared/PrivateRoute/PrivateRoute'
 
 

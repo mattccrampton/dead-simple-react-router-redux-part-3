@@ -3,7 +3,7 @@ import { render } from 'react-dom'
 import { Provider } from 'react-redux'
 import { ConnectedRouter } from 'react-router-redux'
 import store, { history } from './store'
-import Root from './components/root/root_component'
+import Root from './components/Root/Root'
 
 // sets global config on window.app_config
 import './config'
